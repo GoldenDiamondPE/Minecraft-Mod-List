@@ -1,0 +1,2 @@
+Alex’s Caves is a Forge mod for Minecraft 1.20.1 that adds 6 new cave biomes to the Overworld. Unlike most normal biomes, these cave biomes are exceedingly rare - yet they all contain a variety of unique blocks, items, mobs and mechanics that makes them considerable subterranean destinations. These six biomes are the ****Magnetic Caves****, the ****Primordial Caves****, the ****Toxic Caves****, the ****Abyssal Chasm****, the ****Forlorn Hollows****, and ****the Candy Cavity****.
+https://www.curseforge.com/minecraft/mc-mods/alexs-caves

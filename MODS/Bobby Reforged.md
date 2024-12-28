@@ -1,0 +1,2 @@
+Bobby is a Minecraft mod which allows for render distances greater than the server's view-distance setting, even after rejoining the server. It accomplishes this goal by recording and storing _(in `.minecraft/.bobby`)_ all chunks sent by the server, which it then can load and display at a later point when the chunk is outside the server's view-distance.
+https://www.curseforge.com/projects/883502

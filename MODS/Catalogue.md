@@ -1,0 +1,2 @@
+Catalogue is a universal mod list menu for all modloaders. Catalogue creates a more rich experience for players, making it easier to search installed mods, check for updates, submit bugs and see relevant mod information all in a brand new and modernised layout. Catalogue automatically supports logo images of Forge/NeoForge mods, and Icons from Fabric mods.
+https://www.curseforge.com/projects/459701

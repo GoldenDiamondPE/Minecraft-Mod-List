@@ -1,0 +1,2 @@
+With BetterNether your adventures in the fiery dimension will be even more exciting. The mod adds new biomes, plants and materials to the Nether. Among them there are new challenging monsters like the Naga, or dark dungeons where the creatures of Nether have taken over. Your new tools will bring unique improvements that will help you to survive. There are a lot of unique new blocks for builders together with variants of old familiar vanilla blocks
+https://www.curseforge.com/projects/311377

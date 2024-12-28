@@ -1,0 +1,2 @@
+Sophisticated backpacks is yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades.
+https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks

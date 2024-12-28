@@ -1,0 +1,2 @@
+Apothic Attributes is a library mod that provides a variety of attributes and attribute-related utilities, which makes interacting with, debugging, and using attributes much easier. The current list of Attributes is [available here](https://github.com/Shadows-of-Fire/Apothic-Attributes/blob/1.20/src/main/java/dev/shadowsoffire/attributeslib/api/ALObjects.java#L26).  Most of the features are developer-facing, but there are a few user-facing components:
+https://www.curseforge.com/projects/898963

@@ -1,0 +1,3 @@
+Born in Chaos is a mod that adds many new aggressive mobs with their own characteristics, it also adds a new boss, weapons and armor, decorative blocks, as well as new structures. Mod aims to diversify and complicate your survival by adding a variety of opponents that require a specific approach and tactics. With Born in Chaos, you will once again have a sense of fear of going out at night and exploring the dark caves, because now there will be dangers everywhere.
+https://www.curseforge.com/projects/686437
+[[Born In Configuration]]

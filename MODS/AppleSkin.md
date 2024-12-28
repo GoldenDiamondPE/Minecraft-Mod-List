@@ -1,0 +1,2 @@
+Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.
+https://www.curseforge.com/projects/248787

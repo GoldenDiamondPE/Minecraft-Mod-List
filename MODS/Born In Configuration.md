@@ -1,0 +1,2 @@
+Born In Configuration is a addon mod for the mod [Born In Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) that adds all configuration from the mod in gamerule into a fully fletched config file for ease of configuration of the mod,while also adding a couple of new configs for the mod.
+https://www.curseforge.com/projects/1019091

@@ -1,0 +1,2 @@
+Introduces some new enchantments, each with the goal of breaking up the enchantment meta a bit. Also included is the ability to enchant horse armor, as well as several tweaks to existing enchantments. There are plans to make tweaks to the experience and leveling system in the future as well.
+https://www.curseforge.com/minecraft/mc-mods/allurement

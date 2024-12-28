@@ -1,0 +1,2 @@
+BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more.
+https://www.curseforge.com/projects/401648

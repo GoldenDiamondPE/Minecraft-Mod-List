@@ -1,0 +1,2 @@
+This mod adds detailed temples and villages to the Aether dimension. These also contain typical village loot and may include custom villager types in the future.
+https://www.curseforge.com/projects/1073197

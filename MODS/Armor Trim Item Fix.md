@@ -1,0 +1,2 @@
+Trimmed armor items in Minecraft display one of four generic trim textures for every item, no matter what trim you put on an item the texture is always the same. This mod fixes that by adding more item trim textures that change depending on the trim applied
+https://www.curseforge.com/projects/895603

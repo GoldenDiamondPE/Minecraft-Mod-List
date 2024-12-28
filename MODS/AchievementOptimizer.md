@@ -1,0 +1,2 @@
+Minecraft has a long-standing problem with achievements. If you have a lot of mods and players, the minecraft server will have a low tick rate due to the constant checking of all players' inventories for items to issue achievements to the player.
+https://www.curseforge.com/projects/912788

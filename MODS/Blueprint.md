@@ -1,0 +1,2 @@
+Blueprint is a mod library developed for easily accessing code which is shared across most Team Abnormals mods, It comes with many useful features, such as a registry helper, data syncing, and the Endimator animation API.
+https://www.curseforge.com/projects/382216

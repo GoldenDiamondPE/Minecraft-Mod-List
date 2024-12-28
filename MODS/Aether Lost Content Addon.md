@@ -1,0 +1,2 @@
+**An addon** that brings back, or gives life to a lot of scrapped, unused, and even concepted content and features from The Aether's past.
+https://www.curseforge.com/minecraft/mc-mods/aether-lost-content

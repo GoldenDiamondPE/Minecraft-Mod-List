@@ -1,0 +1,2 @@
+Create Deco is the best mod around for taking your industrial, urban, or steampunk builds to the next level. With everything from catwalks to cage lamps and shipping containers to sheet metal, Create Deco integrates flawlessly with the existing selection of building blocks in Create.
+https://www.curseforge.com/projects/509285

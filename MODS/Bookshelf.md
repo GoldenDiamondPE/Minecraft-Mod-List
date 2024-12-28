@@ -1,0 +1,2 @@
+Bookshelf is a library mod that aims to improve the experience of creating and maintaining Minecraft content. Bookshelf contains a collection of code, frameworks, utilities, and other resources that I have put together over the years. The Bookshelf library is trusted by millions of players and is used by over 42,000 projects!
+https://www.curseforge.com/projects/228525

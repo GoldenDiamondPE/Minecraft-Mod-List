@@ -1,0 +1,2 @@
+Caelus is a small utility mod that abstracts the hardcoded vanilla elytra behavior into a more generic elytra flight attribute and exposes this to mod developers seeking to implement elytra flight for their own mods.
+https://www.curseforge.com/projects/308989

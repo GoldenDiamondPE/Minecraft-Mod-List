@@ -1,0 +1,2 @@
+This is a library mod for CERBON's Minecraft mods. It contains shared code between my mods and some other useful stuff. It's required for all my mods on Minecraft 1.20.1+. Take a look at my profile page to see all my mods.
+https://www.curseforge.com/projects/955605

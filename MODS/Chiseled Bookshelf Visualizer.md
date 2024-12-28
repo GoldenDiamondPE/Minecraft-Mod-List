@@ -1,0 +1,2 @@
+The Chiseled Bookshelf Visualizer is a Minecraft mod that adds a new gaming experience by providing you with a visual way to identify the contents of the Chiseled Bookshelves.
+https://www.curseforge.com/projects/913857

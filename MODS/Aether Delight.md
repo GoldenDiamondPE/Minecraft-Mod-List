@@ -1,0 +1,2 @@
+Aether Delight is an add-on for [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) that adds compatibility with [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether) (and addons: [Deep Aether](https://www.curseforge.com/minecraft/mc-mods/deep-aether), [Redux](https://www.curseforge.com/minecraft/mc-mods/aether-redux), [Lost Content](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content))
+https://www.curseforge.com/projects/961108

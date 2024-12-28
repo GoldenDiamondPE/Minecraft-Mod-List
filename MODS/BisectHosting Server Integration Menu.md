@@ -1,0 +1,2 @@
+Introducing the BisectHosting Server Integration Mod, exclusively designed for our Official BisectHosting Partners! This unique mod enables our partners to easily embed their partner links into the multiplayer menu of their modpacks. This functionality, developed with user-friendliness in mind, allows partners to gain commissions that support their projects and strengthen their community, all without spending unnecessary time on complex menu editing.
+https://www.curseforge.com/projects/585546

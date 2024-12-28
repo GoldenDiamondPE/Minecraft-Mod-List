@@ -1,0 +1,2 @@
+This mod adds new biomes into the End and modifying existing ones. Each biome has its own atmosphere, resources and mobs. The sky will have custom outlook with purple nebulas and stars. All biomes have custom music, sounds and effects to make them alive and interesting to explore.BetterEnd have a custom End generator and custom structures for Central Island. With new generator ind islands will have different shapes, terrain, will be on different height. Inside islands you can find caves with unique resources.
+https://www.curseforge.com/projects/413596
